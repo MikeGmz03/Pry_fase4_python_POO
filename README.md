@@ -129,8 +129,18 @@ git push origin feat/nombre-de-tu-aporte
 
 ---
 
-## 📚 Referencias
+## 📚 Referencias Bibliográficas
 
-* Cuevas Álvarez, A. (2016). *Python 3: curso práctico*. RA-MA Editorial.
-* Romano, F., Baka, B., & Phillips, D. (2019). *Getting Started with Python: Understand Key Data Structures and Use Python in Object-oriented Programming*. Packt Publishing.
-* Van Rossum, G., & Drake Jr, F. L. (2024). *El tutorial de Python: Errores y excepciones*. Python Software Foundation. https://docs.python.org/es/3.12/tutorial/errors.html
+* **Cuevas Álvarez, A. (2016).** *Python 3: curso práctico* (ed.). RA-MA Editorial. https://elibro-net.bibliotecavirtual.unad.edu.co/es/ereader/unad/106404?page=373 (pp. 373–385)
+  * *Guía de lectura:* Conceptos prácticos avanzados del lenguaje Python, técnicas y ejemplos aplicados para resolver problemas complejos y desarrollar programas completos.
+* **Mishra, P. (2024).** *Ultimate Git and GitHub for Modern Software Development*. Orange Education Pvt Ltd. https://research-ebsco-com.bibliotecavirtual.unad.edu.co/c/qcagk4/ebookviewer/pdf/fhmr6uslr5/section/lp_4
+  * *Guía de lectura:* Fundamentos de Git (repositorios, *commits*, ramas y fusiones) y trabajo colaborativo con GitHub mediante *pull requests*, revisión de código, resolución de conflictos y trazabilidad.
+* **Van Rossum, G., & Drake Jr, F. L. (2024).** *El tutorial de Python* (Apartado 8). Python Software Foundation. https://docs.python.org/es/3.12/tutorial/index.html
+  * *Guía de lectura:* Manejo de errores, excepciones y operaciones de entrada y salida en Python para gestionar archivos y flujos de datos de forma eficiente y segura.
+
+### Recursos Educativos Digitales del Curso
+
+| Tipo de Recurso | Referencia Bibliográfica |
+| :--- | :--- |
+| **OVI** | Silva, F. D. (2025). *Basics of using GitHub* [Objeto virtual de información, OVI]. Repositorio Institucional UNAD. https://repository.unad.edu.co/handle/10596/75882 |
+| **OVI** | Zambrano, J. P. (2025). *Introducción al uso de GitHub* [Objeto virtual de información, OVI]. Repositorio Institucional UNAD. https://repository.unad.edu.co/handle/10596/75876 |
